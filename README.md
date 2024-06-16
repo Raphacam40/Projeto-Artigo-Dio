@@ -49,6 +49,7 @@ Gostou do artigo? Foi gerado por uma IA e revisado por humanos. Conecte-se comig
 
 - Imagens e capa: [Lexica.Art](https://www.lexica.art/) e Power Point
 - Conteúdo: ChatGPT com revisões humanas
+- Layout: HTML e CSS
 
 ---
 
@@ -58,3 +59,4 @@ Gostou do artigo? Foi gerado por uma IA e revisado por humanos. Conecte-se comig
 - [GitHub](https://www.github.com/Raphacam40/)
 
 #TransiçãoDeCarreira #TechParaTodos #NovosDesafios
+
